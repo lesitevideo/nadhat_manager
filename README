@@ -3,9 +3,8 @@
 1- Connectez-vous au raspberry pi en ssh (vous pouvez connaître son adresse IP en allant sur le routeur de votre box)
 
 2- Vous arrivez dans /home/pi, copiez-y l'appli :
-```
+
  git clone git://github.com/lesitevideo/nadhat_manager 
-```
 
 3- Allez dans le dossier :
 
