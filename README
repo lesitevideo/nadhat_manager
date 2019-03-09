@@ -4,7 +4,7 @@
 
 2- Vous arrivez dans /home/pi, copiez-y l'appli :
 
-> git clone git://github.com/lesitevideo/nadhat_manager
+` git clone git://github.com/lesitevideo/nadhat_manager `
 
 3- Allez dans le dossier :
 
