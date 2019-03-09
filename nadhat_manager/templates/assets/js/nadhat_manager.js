@@ -122,6 +122,11 @@ function get_sent_sms() {
 function send_sms() {
 	console.log("send sms");
 	
+	if ($("#sms_message").val() === "" || $("#destinataire_num").val() === "") {
+		alert("Saisissez un numéro et un message.");
+		return false;
+	}
+	
 	var data = {
 		"msg": $("#sms_message").val(),
 		"num": $("#destinataire_num").val()
