@@ -38,5 +38,6 @@
 Cette dernière opération peut sembler un problème de sécurité, mais dans la mesure où le NadHat est sur votre réseau local, il n'y a pas de risques !
 
 **Plugin Wordpress**
+
 Installez le plugin wordpress nadhat_manager comme n'importe quel plugin, en le placant dans 'wp-content/plugins/'.
 Ensuite, rendez-vous sur la page de configuration pour renseigner l'adresse IP et le PORT du Raspberry.
