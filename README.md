@@ -29,15 +29,6 @@
 
 > su pi -c '/usr/bin/node /home/pi/nadhat_manager/index.js < /dev/null &'
 
-7- Enfin, faites un chmod pour pouvoir lire les fichiers de gammu-smsd
-
-> sudo su
-
-> sudo chmod a+r /var/spool/gammu/*
-
-> exit
-
-Cette dernière opération peut sembler un problème de sécurité, mais dans la mesure où le NadHat est sur votre réseau local, il n'y a pas de risques !
 
 **Plugin Wordpress**
 
